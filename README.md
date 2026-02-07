@@ -1,1 +1,1 @@
-  open collegeclearn file for all unit 1 programs
+  open collegelearnc file for all unit 1 programs
